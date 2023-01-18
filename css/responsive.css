@@ -124,7 +124,7 @@
 
 @media (max-width: 575px) {
     .head_top {
-        background: #0891f8;
+        background: #808080;
     }
     .header {
         padding: 12px 0px 0px 0px;
@@ -159,7 +159,7 @@
         background: transparent;
     }
     .Testimonial {
-        background: #0891f8;
+        background: #808080;
     }
     .Testimonial_box {
         padding: 20px;
