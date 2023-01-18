@@ -53,7 +53,7 @@
 
 @media (min-width: 576px) and (max-width: 767px) {
     .head_top {
-        background: #0891f8;
+        background: #808080;
     }
     .mean-container .mean-bar {
         margin-top: 0px;
@@ -71,7 +71,7 @@
         margin: 0;
     }
     .Testimonial {
-        background: #0891f8;
+        background: #808080;
     }
     .Testimonial_box {
         padding: 20px;
